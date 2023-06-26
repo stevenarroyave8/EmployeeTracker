@@ -1,1 +1,4 @@
 # EmployeeTracker
+## About
+### Installations 
+#### Usage
