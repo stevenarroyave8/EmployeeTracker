@@ -1,3 +1,7 @@
+
+
+
+
 # EmployeeTracker
 Our assignment this week is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 ## About
@@ -18,3 +22,4 @@ Then run the command node index.js to run the software.
 The command prompt will begin on your terminal
 
 #### Walk-through Video
+https://github.com/stevenarroyave8/EmployeeTracker/assets/128537787/697383ba-40eb-49e8-851a-06fc15e99c00
