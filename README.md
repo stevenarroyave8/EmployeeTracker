@@ -16,3 +16,5 @@ Run the command npm install to download the packages.
 Then run the command node index.js to run the software.
 
 The command prompt will begin on your terminal
+
+#### Walk-through Video
